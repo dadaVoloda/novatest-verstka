@@ -1,0 +1,14 @@
+@import 'fonts';
+@import 'reset';
+
+// Base
+
+@import 'base/vars';
+@import 'base/global';
+
+// Blocks
+
+@import 'blocks/header';
+@import 'blocks/main';
+@import 'blocks/footer';
+@import 'blocks/modal';
